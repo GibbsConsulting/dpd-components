@@ -1,0 +1,5 @@
+include dpd_components/bundle.js
+include dpd_components/bundle.js.map
+include dpd_components/metadata.json
+include README.md
+include LICENSE.md

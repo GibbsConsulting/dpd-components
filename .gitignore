@@ -59,3 +59,29 @@ typings/
 
 # next.js build output
 .next
+
+# virtualenv
+
+env/*
+
+# python
+
+*/__pycache__/*
+
+# From initial build of component
+
+build/
+coverage/
+dist/
+lib/
+lib/bundle.js*
+node_modules/
+dpd_components/metadata.json
+dpd_components/bundle.js*
+.npm
+vv/
+venv/
+*.pyc
+*.egg-info
+*.log
+.DS_Store
